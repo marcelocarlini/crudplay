@@ -1,6 +1,6 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background: linear-gradient(to left, rgb(102, 47, 142), rgb(211, 203, 203));
+    background: linear-gradient(to left, #880a7b, #382384);
 }
 div{
     background-color: rgba(0, 0, 0, 0.8);
@@ -21,7 +21,7 @@ input{
     font-size: 15px;
 }
 button{
-    background-color:  rgb(102, 47, 142);
+    background: linear-gradient(to left, #880a7b, #382384);
     border: none;
     padding: 15px;
     width:100%;
@@ -30,6 +30,6 @@ button{
     font-size: 15px;
 }
 button:hover{
-    background-color: blueviolet;
+    background: linear-gradient(to left, #880a7b8f, #382384);
     cursor: pointer;
 }
